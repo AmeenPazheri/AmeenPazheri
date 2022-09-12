@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeenPazheri
-- 👀 I’m interested in Studying.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Machine Learning,Python.
+- 🌱 I’m currently learning Data Science,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
